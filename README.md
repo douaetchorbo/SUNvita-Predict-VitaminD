@@ -9,9 +9,6 @@ Ce projet vise à explorer les corrélations entre divers tests cliniques et les
 - **Application Web Conviviale** : Développée avec Flask, permettant aux patients d'entrer leurs données cliniques et de recevoir des prédictions sur leurs niveaux de vitamine D.
 - **Visualisation des Données** : Utilisation de Power BI pour visualiser les résultats et faciliter la communication des findings.
 
-## Data
-Le jeu de données utilisé dans ce projet est stocké dans un fichier Excel nommé **"Vitamine_D_modified.xlsx"**, qui comprend divers tests cliniques et les niveaux de vitamine D correspondants.
-
 ### Data Variables
 - **Variables des Tests Cliniques** : Divers tests utilisés pour évaluer les indicateurs de santé pertinents aux niveaux de vitamine D.
 - **Niveau de Vitamine D** : La variable cible pour la prédiction.
